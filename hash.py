@@ -1,7 +1,13 @@
 import base64
 import hashlib
+print(r"""
+__  __
+|  \/  | ___  ___  ___ _____      __
+| |\/| |/ _ \/ __|/ __/ _ \ \ /\ / /
+| |  | | (_) \__ \ (_| (_) \ V  V /
+|_|  |_|\___/|___/\___\___/ \_/\_/
+""")
 print("\nscript by Moscow\n")
-#help(hashlib)
 while True:
     try:
         a = r"""
