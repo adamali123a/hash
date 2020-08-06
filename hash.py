@@ -1,12 +1,13 @@
 import base64
 import hashlib
-print(r"""
-__  __
+u = r"""
+ __  __
 |  \/  | ___  ___  ___ _____      __
 | |\/| |/ _ \/ __|/ __/ _ \ \ /\ / /
 | |  | | (_) \__ \ (_| (_) \ V  V /
 |_|  |_|\___/|___/\___\___/ \_/\_/
 """)
+print("\033[0;32m",u)
 print("\nscript by Moscow\n")
 while True:
     try:
